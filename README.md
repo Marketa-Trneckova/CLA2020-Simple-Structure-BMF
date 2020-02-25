@@ -1,6 +1,8 @@
 # CLA2020-Simple-Structure-BMF
 
-Datasets are saved in .mat files.
+Datasets are saved in .xlsx files as well as in .mat files. 
+
+In .mat files:
 
 Matrix M contains input data. 
 
