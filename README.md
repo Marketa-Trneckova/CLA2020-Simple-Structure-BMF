@@ -1,5 +1,7 @@
 # CLA2020-Simple-Structure-BMF
 
+Datasets are saved in .mat files.
+
 Matrix M contains input data. 
 
 Matrices Ai and Bi represent factorization obtained via algorithms in the order:
